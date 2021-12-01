@@ -1,5 +1,10 @@
 # cgo-libevent-for-windows
-
+- [cgo-libevent-for-windows](#cgo-libevent-for-windows)
+	- [参考文章：](#参考文章)
+	- [1.环境（windows）](#1环境windows)
+	- [2.下载libevent源码 并制作dll动态库 利用mingw-utils生成.a .def](#2下载libevent源码-并制作dll动态库-利用mingw-utils生成a-def)
+	- [3.测试代码：](#3测试代码)
+	- [4.go build：](#4go-build)
 
 ## 参考文章：
 https://www.kancloud.cn/idzqj/customer/2026575
